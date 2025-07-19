@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "neu",
+  "attachmentFolderPath": "anhänge",
+  "promptDelete": false,
+  "livePreview": false
+}
